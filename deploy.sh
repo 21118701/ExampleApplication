@@ -5,7 +5,7 @@ sudo npm install -g pm2
 
 pm2 stop example_app
 
-cd ExampleApplication/
+cd ExampleApplication
 
 npm install
 echo $privatekey > privatekey.pem
